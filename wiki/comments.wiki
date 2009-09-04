@@ -3,6 +3,8 @@
 
 = Introduction =
 
-Please add your comments, questions, or suggestions at the end, using Wiki syntax. Use a new heading for each contribution.
+Please add your comments, questions, or suggestions by clicking the Edit This Page link. Add each entry at the end, using Wiki syntax. Use a new heading for each entry.'
+
+Thank you in advance for your contribution.
 
 ----
