@@ -3,8 +3,9 @@
 
 = Introduction =
 
-Please add your comments, questions, or suggestions by clicking the Edit This Page link. Add each entry at the end, using Wiki syntax. Use a new heading for each entry.'
+Please add your comments, questions, or suggestions using the comment form below. Note that comments do not use the Wiki syntax extensions, but the Comment syntax extensions.
 
 Thank you in advance for your contribution.
 
-----
+David Spector
+Springtime Software
