@@ -14,7 +14,7 @@ It accomplishes this through:
 
    * Secure user/server mutual authentication and user authorization based on a user password. This is accomplished by hashed challenge without transmission of the password, even in fixed hashed or encrypted form.
 
-   * Fast encryption using a medium-strength algorithm (XXTEA) following session establishment, using a sequence of pseudo-unrelated keys to prevent attacks that require analysis of a large amount of encrypted data.
+   * Fast encryption using a medium-strength algorithm [XXTEA](http://www.movable-type.co.uk/scripts/tea-block.html) following session establishment, using a sequence of pseudo-unrelated keys to prevent attacks that require analysis of a large amount of encrypted data.
 
    * No need to slow down a Website by the use of SSL, which nonselectively encrypts entire pages, including large images, audio, video, and other content that may contain no secret information.
 
