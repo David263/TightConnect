@@ -1,4 +1,4 @@
-# TightConnect
+# TightConnect  ![tightconnect logo](http://springtimesoftware.com/tightconnect.png)
 
 *Note: TightConnect is currently in development. It is not yet released.*
 
